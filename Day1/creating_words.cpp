@@ -6,6 +6,8 @@ void CreateWords(string &str1, string &str2)
     swap(str1[0],str2[0]);
 }
 
+
+//main
 int main()
 {
     int k;
@@ -22,4 +24,5 @@ int main()
 
     }
     return 0;
+
 }

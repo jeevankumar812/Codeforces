@@ -13,7 +13,7 @@ int main()
         for (long long i = 0; i < n - 1; i++) // Loop to read the efficiency of n-1 teams
             cin >> a[i]; // Read efficiency of each team
         // inputs
-
+9
         long long sum = 0; // Variable to store the sum of efficiencies of n-1 teams
         for (long long i = 0; i < n - 1; i++) // Loop to calculate the sum of efficiencies
             sum += a[i]; // Add each team's efficiency to the sum
